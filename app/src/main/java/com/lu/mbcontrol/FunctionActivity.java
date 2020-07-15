@@ -38,7 +38,7 @@ public class FunctionActivity extends AppCompatActivity {
 
     //初始化bomb
     private void initBmob(){
-        BmobSMS.initialize(FunctionActivity.this, "16c289d3d3c88d82785f80b204c71eab");
+        BmobSMS.initialize(FunctionActivity.this, "bmob sercet key");
     }
 
     public void initView(){
